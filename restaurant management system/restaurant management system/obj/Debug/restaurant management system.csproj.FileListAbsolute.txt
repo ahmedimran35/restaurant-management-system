@@ -1,0 +1,21 @@
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe.config
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\bin\Debug\restaurant management system.exe
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\bin\Debug\restaurant management system.pdb
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.DashBoard.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Employee_DashBoard.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Employee_manage.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Form1.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.Properties.Resources.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_Sending_email.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.submit_todays_sell.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_accessories_manage.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_add_employee.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_check_sell.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_chng_pass_button.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_submit_sell.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant_management_system.uc_Update_em_profile.resources
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant management system.csproj.GenerateResource.cache
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant management system.csproj.CoreCompileInputs.cache
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant management system.exe
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant management system.pdb
+C:\Users\Imran\Desktop\C# Final PRoject\RMS\restaurant management system\restaurant management system\obj\Debug\restaurant management system.csprojAssemblyReference.cache
